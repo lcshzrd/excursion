@@ -12,10 +12,20 @@ h2 {
   font-size: 16px;
   color: aquamarine;
   font-weight: normal;
+  text-decoration: underline;
 }
 
 h3 {
   color: white;
   font-size: 42px;
   font-weight: 300;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+.Copy {
+  text-align: right;
 }
